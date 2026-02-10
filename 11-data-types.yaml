@@ -5,7 +5,7 @@
     PROGRAM: "DevSecOps with AWS" # string
     DURATION: 140 #int
     IS_LIVE: true #bool
-    DETAIILS: # map/dictionary
+    DETAILS: # map/dictionary
       MONTHS: 4
       TRAINER: "Shivakumar Reddy"
     TOPICS: # list -/[]
