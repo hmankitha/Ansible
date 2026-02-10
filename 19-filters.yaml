@@ -1,7 +1,7 @@
 - name: demo on filters
   hosts: local
   connection: local
-  task:
+  tasks:
   - name: greating
     ansible.builtin.debug:
       msg: "hi ankitha, {{ GREATING }}"
