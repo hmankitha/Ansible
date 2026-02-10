@@ -4,7 +4,7 @@
   tasks:
   - name: command module test
     ansible.builtin.shell: cat /etc/passwd | grep root
-    register: users_outut
+    register: users_output
 
   - name: printing the output
     ansible.builtin.debug:
