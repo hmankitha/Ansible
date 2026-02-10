@@ -1,0 +1,42 @@
+{
+    "students": [
+        {
+            "firstname": "ankitha",
+            "dob": " 1-11-2003",
+            "address":[
+                {
+                    "type": "perm",
+                    "flatnumber": 104,
+                    "street": "gandi nagar",
+                    "city": "benglore"
+                },
+                {
+                    "type": "current",
+                    "flatnumber": 105,
+                    "street": "gandi nagar",
+                    "city": "kurugodu"
+                }
+            ],
+        "skills":["java","devops","cloud"]
+        },
+        {
+            "firstname": "rakshitha",
+            "dob": " 1-11-2003",
+            "address":[
+                {
+                    "type": "perm",
+                    "flatnumber": 104,
+                    "street": "gandi nagar",
+                    "city": "benglore"
+                },
+                {
+                    "type": "current",
+                    "flatnumber": 105,
+                    "street": "gandi nagar",
+                    "city": "kurugodu"
+                }
+            ],
+        "skills":["java","devops","cloud"]
+        }
+    ]
+}

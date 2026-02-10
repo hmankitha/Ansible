@@ -1,0 +1,27 @@
+- name: "Ankitha"
+  dob: "1-11-2003"
+  mobilenumber: 123455667
+  addresses:
+  - flatNumber: 104
+    street: "gandhi nagar"
+    city: "hyderabad"
+    type: "current"
+
+  - flatNumber: 105
+    street: "gandhi nagar"
+    city: "hyderabad"
+    type: "perm"
+
+- name: "Rakshitha"
+  dob: "1-11-2003"
+  mobilenumber: 123455667
+  addresses:
+  - flatNumber: 104
+    street: "gandhi nagar"
+    city: "hyderabad"
+    type: "current"
+
+  - flatNumber: 105
+    street: "gandhi nagar"
+    city: "hyderabad"
+    type: "perm"
