@@ -3,10 +3,12 @@
   connection: local
   vars:
     topics: linux, shell, ansible, terraform
+    course: "Devops with aws"
     tagsmap:
       name: ansible
       project: roboshop
       component: catalogue
+
     tagslist: [
         {
             "key": "name",
